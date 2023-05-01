@@ -1,6 +1,6 @@
-package com.bookStore.bookStore.repository;
+package com.alatoo.bagShop.repository;
 
-import com.bookStore.bookStore.entity.Bag;
+import com.alatoo.bagShop.entity.Bag;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

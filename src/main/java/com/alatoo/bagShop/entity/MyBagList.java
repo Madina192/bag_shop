@@ -1,4 +1,4 @@
-package com.bookStore.bookStore.entity;
+package com.alatoo.bagShop.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

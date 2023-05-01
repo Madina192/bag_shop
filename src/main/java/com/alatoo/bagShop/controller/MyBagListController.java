@@ -1,6 +1,6 @@
-package com.bookStore.bookStore.controller;
+package com.alatoo.bagShop.controller;
 
-import com.bookStore.bookStore.service.MyBagService;
+import com.alatoo.bagShop.service.MyBagService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

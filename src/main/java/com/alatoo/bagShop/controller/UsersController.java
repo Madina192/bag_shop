@@ -1,7 +1,7 @@
-package com.bookStore.bookStore.controller;
+package com.alatoo.bagShop.controller;
 
-import com.bookStore.bookStore.entity.UsersModel;
-import com.bookStore.bookStore.service.UsersService;
+import com.alatoo.bagShop.entity.UsersModel;
+import com.alatoo.bagShop.service.UsersService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

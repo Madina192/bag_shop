@@ -1,7 +1,7 @@
-package com.bookStore.bookStore.service;
+package com.alatoo.bagShop.service;
 
-import com.bookStore.bookStore.entity.MyBagList;
-import com.bookStore.bookStore.repository.MyBagRepository;
+import com.alatoo.bagShop.entity.MyBagList;
+import com.alatoo.bagShop.repository.MyBagRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
